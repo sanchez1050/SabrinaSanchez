@@ -27,11 +27,8 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
   - course: MPH
-    institution: The Ohio State Univeristy
+    institution: The Ohio State University
     year: 2019
   - course: BA Health and Society
     institution: Beloit College
@@ -70,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sabrina Sanchez is a PhD student in the College of Public Health at the Ohio State University. Her research interests include community cohesion, social stratification, addiction, and the social determinants of health. She currently manages an Opioid Innovation Research grant that collects qualitative data form a variety of key stakeholders including people use who injection drugs. The overall aim is to reduce fatal opioid overdose rates in the most impacted Columbus neighborhoods. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
