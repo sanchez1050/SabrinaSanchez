@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -18,27 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Project Manager"
+  company = "The Ohio State University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Ohio"
+  date_start = "2018-05-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Managing diverse stakdholders
+  * Conducting focus groups and interviews
+  * Analyze and interpret qualitative data
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Teaching Assistant"
+  company = "The Ohio State Univeristy"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Ohio"
+  date_start = "2019-08-01"
+  date_end = ""
+  description = """Assignment grader, guest lecturer, teaching hours faciliator"""
 
 +++
