@@ -27,7 +27,7 @@ subtitle = ""
   description = "Quantitive data software"  
   
 [[feature]]
-  icon = "fa-clipboard-check"
+  icon = "clipboard-check"
   icon_pack = "fas"
   name = "Qualitative data collection"
   description = "Focus group moderation and interviewing"
