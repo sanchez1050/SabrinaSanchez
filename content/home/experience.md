@@ -40,9 +40,6 @@ date_format = "Jan 2006"
   date_start = "2019-08-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  * Grading assignments. 
-  * Guest lecturing. 
-  * Meeting with students. 
+  Responsibilities include grading assignments, guest lecturing, meeting with students and holding office hours.
    """
 +++
