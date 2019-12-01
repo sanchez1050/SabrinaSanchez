@@ -41,10 +41,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  *Grading assignments 
-  *Guest lecturing
-  *Meeting with students
-  *Holding teaching hours
+  * Grading assignments
+  * Guest lecturing
+  * Meeting with students
    """
 +++
