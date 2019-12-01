@@ -15,8 +15,8 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  #icon = ".octicon-file"
- # icon_pack = "fab"
+  #icon = "coffee"
+ # icon_pack = "fas"
   name = "NVivo"
   description = "Qualitative data software"
   
