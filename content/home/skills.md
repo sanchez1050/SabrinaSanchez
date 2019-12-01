@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  #icon = ".octicon-file"
+ # icon_pack = "fab"
+  name = "NVivo"
+  description = "Qualitative data software"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "STATA"
+  description = "Quantitive data software"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Qualitative data collection"
+  description = "Focus group moderation and interviewing"
 
 +++
