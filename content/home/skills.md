@@ -27,7 +27,7 @@ subtitle = ""
   description = "Quantitive data software"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "person"
   icon_pack = "fas"
   name = "Qualitative data collection"
   description = "Focus group moderation and interviewing"
