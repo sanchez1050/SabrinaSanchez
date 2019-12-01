@@ -69,5 +69,5 @@ user_groups:
 
 Sabrina Sanchez is a PhD student in the College of Public Health at the Ohio State University. Her research interests include community cohesion, social stratification, addiction, and the social determinants of health. 
 
-She currently manages an Opioid Innovation Research grant that collects qualitative data from a variety of key stakeholders including people use who injection drugs. The overall aim is to reduce fatal opioid overdose rates in the most impacted Columbus neighborhoods. 
+She currently manages an Opioid Innovation Fund research grant that collects qualitative data from a variety of key stakeholders including people use who injection drugs. The overall aim is to reduce fatal opioid overdose rates in the most impacted Columbus neighborhoods. 
  
