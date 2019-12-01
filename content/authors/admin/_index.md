@@ -3,7 +3,7 @@
 name: Sabrina Sanchez
 
 # Username (this should match the folder name)
-authors:
+authors: Sabrina Sanchez
 - admin
 
 # Is this the primary user of the site?
